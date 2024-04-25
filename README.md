@@ -43,8 +43,3 @@ You can modify the test instance in the `diabetes_prediction.py` script to predi
 ## Dataset
 
 The dataset used for this project is stored in the `Dataset.csv` file. It contains medical attributes of individuals, such as glucose level, blood pressure, BMI, etc., along with their diabetes status.
-
-
-## Acknowledgements
-
-Special thanks to the contributors who helped develop and test this project.
